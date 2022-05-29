@@ -20,6 +20,9 @@ pip install requests
 pip install mechanize
 
 Git clone https://github.com/NomiKing33/Mrdevil.git
+
 ls
+
 cd Mrdevil
+
 python king.py
